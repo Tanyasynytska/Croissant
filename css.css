@@ -1,3 +1,6 @@
 body {
     background-color: aquamarine;
 }
+.container a {
+    margin: 10px;
+}
